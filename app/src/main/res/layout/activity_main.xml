@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/DescriptionTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="25dp"
+        android:text="Descripción"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.181" />
+
+    <TextView
+        android:id="@+id/DescriptionBody"
+        android:layout_width="388dp"
+        android:layout_height="530dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="6dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="8dp"
+        android:scrollHorizontally="true"
+        android:text="Como se describe en https://www.ecured.cu/Santuario_de_Fauna_y_Flora_Ot%C3%BAn_Quimbaya   (citando a COLPARQUES) está localizado “En el departamento de Risaralda, distante 14 Km. del  casco urbano del municipio de Pereira, vereda La Suiza, en la zona occidental de la  Cordillera Central… Otún Quimbaya y toda la región del Ucumarí, que se extiende hasta  el Parque Nacional Natural Los Nevados, son grandes espacios de bosques andinos de una alta  diversidad biológica… Se destacan especies de aves como: la pava caucana (Penelope  perspicax), el tororoi bigotudo (Grallaria alleni), la perdiz colorada (Odontophorus  hyperythrus), el perico paramuno (Leptosittaca branickii), la pava negra (Aburria aburri),  la tángara multicolor (Chlorochrysa nitidissima), el Patico de los Torrentes (Merganetta  armata) y el toro de monte (Pyroderus scutatus). Entre los mamíferos presentes en el área  protegida estan: la danta de páramo (Tapirus pinchaque), la guagua loba (Dinomys branickii),  el mono aullador colorado (Alouatta seniculus), el mono de noche (Aotus lemurinus) y el  venado soche (Mazama rufina).”  Así mismo,https://ipt.biodiversidad.co/sib/resource?r=biodiversidad_sff_otun_quimbaya informa (citando la CARDER - Corporación Autónoma Regional de Risaralda en Junio, 2018) que el Santuario de Fauna y Flora Otún Quimbaya “Posee un clima Frío Húmedo, con una temperatura media anual de 16,8°C y una precipitación media anual promedio de 2638.5 mm. La información consignada en este recurso procede de observaciones realizadas en él durante el año 1995 por la Bióloga Sandra Arango de la Universidad Javeriana.” "
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.47"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/DescriptionTitle"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="191dp"
+        android:layout_height="122dp"
+        android:layout_marginStart="132dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="132dp"
+        android:layout_marginBottom="12dp"
+        app:layout_constraintBottom_toTopOf="@+id/DescriptionTitle"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/lina_mar_a_morales__abril_2019" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
