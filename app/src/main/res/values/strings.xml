@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyCities</string>
+    <string name="Title">Parque Nacional de Chicamocha</string>
+    <string name="LblDescription">Description</string>
+    <string name="Description">
+        El Parque Nacional del Chicamocha o PANACHI se encuentra en la vía de Bucaramanga – San Gil.
+        Es un impresionante parque temático, de los más destacados de Colombia.
+        Tiene una extensión de más de 3.000 hectáreas, y ofrece una amplia variedad de atracciones,
+        restaurantes y una zona para comprar artículos y comestibles típicos del departamento de Santander.
+        En el parque hay un mirador de 360 grados, desde allí podemos contemplar el hermoso paisaje
+        que nos ofrece el Cañón del Chicamocha, y para los más osados hay un servicio de cablevuelo
+        para pasar de un lado al otro.
+        El teleférico comunica al parque con la Mesa de los Santos y Aratoca, en la estación de
+        destino podemos tomar uno de los tours que se ofrecen para conocer la zona.
+    </string>
+</resources>
