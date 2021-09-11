@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Soacha</string>
+    <string name="tx_desc">"Soacha es el municipio más poblado del departamento de Cundinamarca en Colombia.\nSu área es de 184 km² (kilómetros cuadrados), y su población es de 660 179 (2018).
+        \nEs la capital de la Provincia de Soacha, de la que solo forman parte dos municipios: Soacha y Sibaté."</string>
+    <string name="tx_temp">TEMPERATURA:\n15°C</string>
+    <string name="tx_place">"UBICACIÓN:\nSu área urbana está conurbada con la del Distrito Capital de Bogotá, siendo parte de su área metropolitana."</string>
+    <string name="sites">"SITIOS DE INTERÉS"</string>
+    <string name="site1">"Catedral de Soacha"</string>
+    <string name="site2">Parque natural Chicaque</string>
+    <string name="site3">Casa Museo Tequendama</string>
+</resources>
