@@ -4,4 +4,5 @@
     <string name="tv_sitios">Sitios que puedes visitar:\n - Cascada de la sirena. \n - Cañón de anchicayá. \n - Los siete pozos.</string>
     <string name="tv_temp">26°C/ 78°F</string>
     <string name="tv_ubicacion">Ubicación:\nDagua, Valle del Cauca</string>
+    <string name="imagen_description">El danubio</string>
 </resources>
