@@ -1,2 +1,0 @@
-com/mintic/myaddressbook/BuildConfig.java
- com.mintic.myaddressbook.BuildConfig
