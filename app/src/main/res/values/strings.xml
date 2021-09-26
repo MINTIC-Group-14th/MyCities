@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LA RUTA</string>
+    <string name="main">Inicio</string>
+    <string name="tv_description">La Reserva Natural el Danubio es en definitiva un Paraíso. Para llegar puedes ir en carro , cuenta con una vía sin pavimentar pero ver el paisaje de selva tropical y su rio a mano izquierda valen la pena al 100%.</string>
+    <string name="tv_interest">Sitios que puedes visitar:\n - Cascada de la sirena. \n - Cañón de anchicayá. \n - Los siete pozos.</string>
+    <string name="tv_temp">26°C/ 78°F</string>
+    <string name="tv_locate">Ubicación:\nDagua, Valle del Cauca</string>
+    <string name="imagen_description">El danubio</string>
+    <string name="place_image">Place Picture</string>
+    <string name="configure_sound">Configurar Sonido</string>
+    <string name="get_messages">Recibir Mensajes</string>
+    <string name="exit">Salir</string>
+</resources>
