@@ -29,6 +29,14 @@ class GetMessages : AppCompatActivity() {
                 startActivity(Intent( this, ConfigureSound::class.java))
                 true
             }
+            R.id.action_notifications -> {
+                item.setChecked(true);
+                true
+            }
+            R.id.action_sound -> {
+                item.setChecked(true);
+                true
+            }
             R.id.action_exit -> {
                 exitProcess(0)
                 true

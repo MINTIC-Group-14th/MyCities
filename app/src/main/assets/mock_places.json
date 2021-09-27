@@ -3,72 +3,84 @@
     "namePlace": "El Danubio",
     "descriptionPlace": "La Reserva Natural el Danubio es en definitiva un Paraíso. Para llegar puedes ir en carro , cuenta con una vía sin pavimentar pero ver el paisaje de selva tropical y su rio a mano izquierda valen la pena al 100%.",
     "ratingPlace": "Puntaje 10",
-    "photoPlaceUrl": "https://conocecolombia.com/wp-content/uploads/2019/10/oaisis-sirena-reserva-danubio-valledel-cauca-colombia.jpg"
+    "photoPlaceUrl": "https://conocecolombia.com/wp-content/uploads/2019/10/oaisis-sirena-reserva-danubio-valledel-cauca-colombia.jpg",
+    "fullDescription": "La Reserva Natural el Danubio es en definitiva un Paraíso. Para llegar puedes ir en carro , cuenta con una vía sin pavimentar pero ver el paisaje de selva tropical y su rio a mano izquierda valen la pena al 100%."
   },
   {
     "namePlace": "Minas de sal de Nemocón",
     "descriptionPlace": "Nemocón es un pueblo en Cundinamarca famoso por su gran actividad minera. A pocos kilómetros de Bogotá, se puede llegar a este lugar para explorar las minas de sal que están abiertas al público, donde se pueden apreciar los increíbles espejos de agua adecuados con hermosa iluminación.",
     "ratingPlace": "Puntaje 9",
-    "photoPlaceUrl": "https://www.colombia.co/wp-content/uploads/2017/09/Salt_Mine_Nemocon_Colombia_5743986824-1024x680.jpg"
+    "photoPlaceUrl": "https://www.colombia.co/wp-content/uploads/2017/09/Salt_Mine_Nemocon_Colombia_5743986824-1024x680.jpg",
+    "fullDescription": "Nemocón es un pueblo en Cundinamarca famoso por su gran actividad minera. A pocos kilómetros de Bogotá, se puede llegar a este lugar para explorar las minas de sal que están abiertas al público, donde se pueden apreciar los increíbles espejos de agua adecuados con hermosa iluminación."
   },
   {
     "namePlace": "Parque Nacional Natural El Tuparro",
     "descriptionPlace": "El Parque Nacional Natural El Tuparro es una reserva natural de gran extensión en el departamento de Vichada que ofrece al visitante hermosos ríos, gran variedad de vegetación, la posibilidad de ver jaguares, tapires y animales de la región, además de cientos de especies de aves.",
     "ratingPlace": "Puntaje 7",
-    "photoPlaceUrl": "https://www.colombia.co/wp-content/uploads/2017/09/DSC05257-1024x683.jpg"
+    "photoPlaceUrl": "https://www.colombia.co/wp-content/uploads/2017/09/DSC05257-1024x683.jpg",
+    "fullDescription": "El Parque Nacional Natural El Tuparro es una reserva natural de gran extensión en el departamento de Vichada que ofrece al visitante hermosos ríos, gran variedad de vegetación, la posibilidad de ver jaguares, tapires y animales de la región, además de cientos de especies de aves."
   },
   {
     "namePlace": "Punta Gallinas",
     "descriptionPlace": "Visitar el extremo norte del país y del continente suramericano es una experiencia inigualable. Punta Gallinas ofrece paisajes espectaculares pasando por desiertos, playas, bahías con flamencos rosados y gigantes dunas de arena dorada.",
     "ratingPlace": "Puntaje 8",
-    "photoPlaceUrl": "https://www.colombia.co/wp-content/uploads/2017/09/P1080747.png"
+    "photoPlaceUrl": "https://www.colombia.co/wp-content/uploads/2017/09/P1080747.png",
+    "fullDescription": "Visitar el extremo norte del país y del continente suramericano es una experiencia inigualable. Punta Gallinas ofrece paisajes espectaculares pasando por desiertos, playas, bahías con flamencos rosados y gigantes dunas de arena dorada."
   },
   {
     "namePlace": "Caño Cristales",
     "descriptionPlace": "Ubicado en la sierra de la Macarena en el Meta, se encuentra Caño Cristales, llamado por muchos portales de turismo a nivel internacional como el “río más hermoso del mundo”. ",
     "ratingPlace": "Puntaje 10",
-    "photoPlaceUrl": "https://www.colombia.co/wp-content/uploads/2017/09/cano_cristales.png"
+    "photoPlaceUrl": "https://www.colombia.co/wp-content/uploads/2017/09/cano_cristales.png",
+    "fullDescription": "Ubicado en la sierra de la Macarena en el Meta, se encuentra Caño Cristales, llamado por muchos portales de turismo a nivel internacional como el “río más hermoso del mundo”. "
   },
   {
     "namePlace": "Reserva Río Claro",
     "descriptionPlace": "A tres horas de la capital antioqueña se encuentra Río Claro, una hermosa reserva donde se observa el paso del río en medio de un cañón con hermosas formaciones en mármol.",
     "ratingPlace": "Puntaje 7",
-    "photoPlaceUrl": "https://www.colombia.co/wp-content/uploads/2017/09/h11-1024x478-1.png"
+    "photoPlaceUrl": "https://www.colombia.co/wp-content/uploads/2017/09/h11-1024x478-1.png",
+    "fullDescription": "A tres horas de la capital antioqueña se encuentra Río Claro, una hermosa reserva donde se observa el paso del río en medio de un cañón con hermosas formaciones en mármol."
   },
   {
     "namePlace": "Cerro Azul",
     "descriptionPlace": "A 47 Km de San José del Guaviare está ubicado Cerro Azul, una montaña que sobresale entre la selva, y con toda razón, ya que en ella se observan una serie de pinturas rupestres que conforman un hermoso mural de color rojizo y de gran valor histórico.",
     "ratingPlace": "Puntaje 8",
-    "photoPlaceUrl": "https://www.colombia.co/wp-content/uploads/2017/09/15pinturascerroazul-1024x683.jpg"
+    "photoPlaceUrl": "https://www.colombia.co/wp-content/uploads/2017/09/15pinturascerroazul-1024x683.jpg",
+    "fullDescription": "A 47 Km de San José del Guaviare está ubicado Cerro Azul, una montaña que sobresale entre la selva, y con toda razón, ya que en ella se observan una serie de pinturas rupestres que conforman un hermoso mural de color rojizo y de gran valor histórico."
   },
   {
     "namePlace": "Desierto de la Tatacoa",
     "descriptionPlace": "Estar en el desierto de la Tatacoa es una experiencia inolvidable. A pocas horas de Neiva, se encuentran los espectaculares paisajes llenos de colores rojo, naranja y terracota adornados por los cactus, por momentos hacen sentir al visitante que está en otro planeta.",
     "ratingPlace": "Puntaje 8",
-    "photoPlaceUrl": "https://www.colombia.co/wp-content/uploads/2017/09/nva.png"
+    "photoPlaceUrl": "https://www.colombia.co/wp-content/uploads/2017/09/nva.png",
+    "fullDescription": "Estar en el desierto de la Tatacoa es una experiencia inolvidable. A pocas horas de Neiva, se encuentran los espectaculares paisajes llenos de colores rojo, naranja y terracota adornados por los cactus, por momentos hacen sentir al visitante que está en otro planeta."
   },
   {
     "namePlace": "Puerto Nariño",
     "descriptionPlace": "A 75 km de Leticia, está Puerto Nariño, un pequeño pueblo también a orillas del Río Amazonas que es el claro ejemplo de cómo los humanos pueden vivir en paz con la naturaleza.",
     "ratingPlace": "Puntaje 7",
-    "photoPlaceUrl": "https://www.colombia.co/wp-content/uploads/2017/09/puertos_narino.png"
+    "photoPlaceUrl": "https://www.colombia.co/wp-content/uploads/2017/09/puertos_narino.png",
+    "fullDescription": "A 75 km de Leticia, está Puerto Nariño, un pequeño pueblo también a orillas del Río Amazonas que es el claro ejemplo de cómo los humanos pueden vivir en paz con la naturaleza."
   },
   {
     "namePlace": "Santuario de las Lajas",
     "descriptionPlace": "El Santuario de las Lajas es una iglesia católica ubicada en Ipiales, sobre el cañón del río Guáitara, muy cercana a la frontera con Ecuador. La construcción es de estilo neogótico y está hecha en piedra gris y blanca. ",
     "ratingPlace": "Puntaje 8",
-    "photoPlaceUrl": "https://www.colombia.co/wp-content/uploads/2017/09/las-lajas.png"
+    "photoPlaceUrl": "https://www.colombia.co/wp-content/uploads/2017/09/las-lajas.png",
+    "fullDescription": "El Santuario de las Lajas es una iglesia católica ubicada en Ipiales, sobre el cañón del río Guáitara, muy cercana a la frontera con Ecuador. La construcción es de estilo neogótico y está hecha en piedra gris y blanca. "
   },
   {
     "namePlace": "Parque Nacional Natural Utría",
     "descriptionPlace": "Una de las experiencias más increíbles para los amantes del ecoturismo es la posibilidad de ver ballenas jorobadas durante su paso por las cálidas aguas del pacífico Colombiano. ",
     "ratingPlace": "Puntaje 7",
-    "photoPlaceUrl": "https://www.colombia.co/wp-content/uploads/2017/09/ballenas-jorobadas.png"
+    "photoPlaceUrl": "https://www.colombia.co/wp-content/uploads/2017/09/ballenas-jorobadas.png",
+    "fullDescription": "Una de las experiencias más increíbles para los amantes del ecoturismo es la posibilidad de ver ballenas jorobadas durante su paso por las cálidas aguas del pacífico Colombiano. "
   },
   {
     "namePlace": "Parque Natural Los Estoraques",
     "descriptionPlace": "Esta área protegida de 6 km cuadrados de superficie, alberga formaciones milenarias que han sido creadas a partir del viento y el agua y que ha dado lugar a columnas, pedestales cuevas y cavernas, que forman un paisaje único de formas quebradizas y erosionadas.",
     "ratingPlace": "Puntaje 8",
-    "photoPlaceUrl": "https://www.colombia.co/wp-content/uploads/2017/09/Los_Estoraques_Norte_de_Santander_Colombia_by_Edgar.png"
+    "photoPlaceUrl": "https://www.colombia.co/wp-content/uploads/2017/09/Los_Estoraques_Norte_de_Santander_Colombia_by_Edgar.png",
+    "fullDescription": "Esta área protegida de 6 km cuadrados de superficie, alberga formaciones milenarias que han sido creadas a partir del viento y el agua y que ha dado lugar a columnas, pedestales cuevas y cavernas, que forman un paisaje único de formas quebradizas y erosionadas."
   }
 ]

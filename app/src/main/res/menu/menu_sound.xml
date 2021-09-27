@@ -1,19 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
-<item
-    android:id="@+id/action_main"
-    android:title="@string/main"
-    app:showAsAction="never">
-</item>
-<item
-    android:id="@+id/action_get_messages"
-    android:title="@string/get_messages"
-    app:showAsAction="never">
-</item>
-<item
-    android:id="@+id/action_exit"
-    android:title="@string/exit"
-    app:showAsAction="never">
-</item>
+    <item
+        android:id="@+id/action_main"
+        android:title="@string/main"
+        app:showAsAction="never">
+    </item>
+    <item
+        android:id="@+id/action_get_messages"
+        android:title="@string/get_messages"
+        app:showAsAction="never">
+    </item>
+    <item
+        android:id="@+id/action_notifications"
+        android:title="@string/notifications"
+        app:showAsAction="never"
+        android:checkable="true">
+    </item>
+    <item
+        android:id="@+id/action_sound"
+        android:title="@string/sound"
+        app:showAsAction="never"
+        android:checkable="true">
+    </item>
+    <item
+        android:id="@+id/action_exit"
+        android:title="@string/exit"
+        app:showAsAction="never">
+    </item>
 </menu>
