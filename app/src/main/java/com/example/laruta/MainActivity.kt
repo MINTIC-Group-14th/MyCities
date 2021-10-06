@@ -6,8 +6,11 @@ import android.util.Log
 import android.view.Menu
 import android.view.MenuItem
 import androidx.appcompat.app.AppCompatActivity
+import androidx.fragment.app.Fragment
+import androidx.fragment.app.FragmentTransaction
 import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.RecyclerView
+import com.example.laruta.FragmentInfo.Companion.FRAGMENT_INFO_TAG
 import java.io.IOException
 import java.util.ArrayList
 import org.json.JSONArray
@@ -104,22 +107,22 @@ class MainActivity : AppCompatActivity() {
 
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
         return when (item.itemId) {
-            R.id.action_configure_sound -> {
-                finish()
-                startActivity(Intent( this, ConfigureSound::class.java))
-                true
-            }
-            R.id.action_get_messages -> {
-                finish()
-                startActivity(Intent( this, GetMessages::class.java))
-                true
-            }
             R.id.action_notifications -> {
-                item.setChecked(true);
+                if (!item.isChecked){
+                    item.setChecked(true);
+                }
+                else{
+                    item.setChecked(false);
+                }
                 true
             }
             R.id.action_sound -> {
-                item.setChecked(true);
+                if (!item.isChecked){
+                    item.setChecked(true);
+                }
+                else{
+                    item.setChecked(false);
+                }
                 true
             }
             R.id.action_exit -> {
@@ -127,6 +130,33 @@ class MainActivity : AppCompatActivity() {
                 true
             }
             else -> super.onOptionsItemSelected(item)
+        }
+    }
+
+    /*override fun onClickListener(place: String, description: String, temp: String, location: String,
+                                 interest: String) {
+        var fragmentInfo = supportFragmentManager.findFragmentByTag(FRAGMENT_INFO_TAG) as FragmentInfo?
+
+        if (fragmentInfo != null) {
+            Log.d(TAG, "Fragment B created")
+            fragmentInfo.setName(place, description, temp, location, interest)
+        } else {
+            Log.d(TAG, "Creating Fragment B")
+            fragmentInfo = FragmentInfo.newInstance(place, description, temp, location, interest)
+        }
+
+        navigateTo(fragmentInfo, FRAGMENT_INFO_TAG, true)
+    }*/
+
+    private fun navigateTo(fragment: Fragment, tag: String, backStack: Boolean = false) {
+        val ft: FragmentTransaction = supportFragmentManager.beginTransaction()
+
+        ft.apply {
+            replace(R.id.linearLayout, fragment, tag)
+            if (backStack) {
+                addToBackStack(null)
+            }
+            commit()
         }
     }
 }

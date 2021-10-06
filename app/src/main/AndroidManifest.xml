@@ -12,12 +12,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LaRuta">
         <activity
-            android:name=".GetMessages"
-            android:exported="true" />
-        <activity
-            android:name=".ConfigureSound"
-            android:exported="true" />
-        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
